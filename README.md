@@ -10,3 +10,6 @@
 
 ## Команда 12
 
+## [RASCI](https://docs.google.com/spreadsheets/d/1pUjXepuQddUHxhizSEcXZUjkBCuSAwCfTrThKjp8BJY/edit?usp=drive_link)
+
+## **Выбранный проект**: Система для бронирования аудиторий, переговорных, техники (проектор, камеры, ноутбуки).
